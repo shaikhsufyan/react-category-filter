@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-category-filter/static/css/main.602f3f0f.css",
+    "main.js": "/react-category-filter/static/js/main.51903695.js",
+    "static/js/787.7c2bde74.chunk.js": "/react-category-filter/static/js/787.7c2bde74.chunk.js",
+    "static/media/l4.webp": "/react-category-filter/static/media/l4.f598fc562f669c03ffe1.webp",
+    "static/media/l8.webp": "/react-category-filter/static/media/l8.bfc41bc7c34df468850f.webp",
+    "static/media/l10.webp": "/react-category-filter/static/media/l10.3631cfd8f66d507db322.webp",
+    "static/media/l7.webp": "/react-category-filter/static/media/l7.a7c4db4851565aa63477.webp",
+    "static/media/l5.webp": "/react-category-filter/static/media/l5.7a04885a94c62efe622e.webp",
+    "static/media/l2.webp": "/react-category-filter/static/media/l2.e2c34bd61d35796d32e2.webp",
+    "static/media/l6.webp": "/react-category-filter/static/media/l6.a390a6e85a186f1939db.webp",
+    "static/media/l9.webp": "/react-category-filter/static/media/l9.6fc138082b764a17c8cd.webp",
+    "static/media/l3.webp": "/react-category-filter/static/media/l3.b5492cda021bff57ab01.webp",
+    "index.html": "/react-category-filter/index.html",
+    "main.602f3f0f.css.map": "/react-category-filter/static/css/main.602f3f0f.css.map",
+    "main.51903695.js.map": "/react-category-filter/static/js/main.51903695.js.map",
+    "787.7c2bde74.chunk.js.map": "/react-category-filter/static/js/787.7c2bde74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.602f3f0f.css",
+    "static/js/main.51903695.js"
+  ]
+}
